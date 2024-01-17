@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vineet Chotaliya</h1>
 <h3 align="center">Pursuing B.Tech Computer Science and Engineering (Data Science)</h3>
 
-- 🔭 I’m currently working with RING as a **Software Engineering Intern**
+- 🔭 I’m currently working with IIT-Bombay as a **Machine Learning Research Intern**
+- 🔭 I’ve worked as Software Engineering Inter **@Kissht**
 
 - 👯 I’m looking to collaborate on **Software Development, Data Science and Web Development**
 
